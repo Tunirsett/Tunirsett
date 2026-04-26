@@ -9,6 +9,7 @@
 # 💻 Tech Stack:
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
+<img align="right" alt="coding" width="400" src="net5.jpg">
 ## 🛠️ Technical Skills
 
 - **Routing Protocols:** RIP, EIGRP, OSPF, OSPF Multi-area
