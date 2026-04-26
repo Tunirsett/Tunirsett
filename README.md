@@ -12,10 +12,10 @@
 <img align="right" alt="coding" width="400" src="net5.jpg">
 ## 🛠️ Technical Skills
 
-- **Routing Protocols:** RIP, EIGRP, OSPF, OSPF Multi-area
-- **Network Services:** DHCP, DNS, NAT/PAT, Telnet, SSH
-- **Configuration:** Static IP, VLANs, Inter-VLAN Routing
-- **Tools:** Cisco Packet Tracer, EVE-NG, GNS3
+- ### Routing Protocols: RIP, EIGRP, OSPF, OSPF Multi-area
+- ### Network Services: DHCP, DNS, NAT/PAT, Telnet, SSH
+- ### Configuration: Static IP, VLANs, Inter-VLAN Routing
+- ### Tools: Cisco Packet Tracer, EVE-NG, GNS3
 
 ---
 
