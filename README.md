@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! I'm TUNIR KUMAR SETT 👋
+### Network Engineer | Computer Networking Enthusiast
 
-<!--
-**Tunirsett/Tunirsett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [Network Topology]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Routing Protocols:** RIP, EIGRP, OSPF, OSPF Multi-area
+- **Network Services:** DHCP, DNS, NAT/PAT, Telnet, SSH
+- **Configuration:** Static IP, VLANs, Inter-VLAN Routing
+- **Tools:** Cisco Packet Tracer, EVE-NG, GNS3
+
+---
+
+## 🚀 Projects
+
+- ### Static and Default Routing in Enterprise Networks
+- ### Dynamic Routing using RIP, EIGRP, and OSPF
+- ### Inter-VLAN Routing for Corporate Networks
+- ### Secure Network Access with Telnet and SSH
+
+---
