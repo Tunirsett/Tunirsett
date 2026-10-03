@@ -1,4 +1,4 @@
-![llogo](https://github.com/Tunirsett/Tunirsett/blob/main/Cisco.jpg)
+![llogo](https://github.com/Tunirsett/Tunirsett/blob/main/1st.png?raw=true)
 # Hi there! I'm TUNIR KUMAR SETT 👋
 ### Network Engineer | Computer Networking Enthusiast
 ### CCNA 
